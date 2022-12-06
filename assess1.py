@@ -5,7 +5,7 @@ def connect_to_db():
         host="localhost",
         database="assessmentdb",
         user="postgres",
-        password="SuperElla2020")
+        password="xxxxx")
     return conn
 
 
